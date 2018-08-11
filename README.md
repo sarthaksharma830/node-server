@@ -21,3 +21,13 @@ $ npm start
 ```
 
 The express server listens at port 3000 by default. Navigate to http://localhost:3000/ to view the application
+
+## Other links to try
+
+* http://localhost:3000/users/
+* http://localhost:3000/say-hello/
+* http://localhost:3000/heroes/json/
+
+# References
+
+https://expressjs.com/
